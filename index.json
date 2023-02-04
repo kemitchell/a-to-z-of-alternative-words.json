@@ -1,0 +1,3530 @@
+[
+  {
+    "from": [
+      {
+        "article": "an",
+        "text": "absence of"
+      }
+    ],
+    "to": [
+      "no",
+      "none"
+    ]
+  },
+  {
+    "from": [
+      "abundance"
+    ],
+    "to": [
+      "enough",
+      "plenty",
+      "a lot",
+      {
+        "instruction": "say how many"
+      }
+    ]
+  },
+  {
+    "from": [
+      "accede to"
+    ],
+    "to": [
+      "allow",
+      "agree to"
+    ]
+  },
+  {
+    "from": [
+      "accelerate"
+    ],
+    "to": [
+      "speed up"
+    ]
+  },
+  {
+    "from": [
+      "accentuate"
+    ],
+    "to": [
+      "stress"
+    ]
+  },
+  {
+    "from": [
+      "accommodation"
+    ],
+    "to": [
+      "where you live",
+      "home"
+    ]
+  },
+  {
+    "from": [
+      "accompanying"
+    ],
+    "to": [
+      "with"
+    ]
+  },
+  {
+    "from": [
+      "accomplish"
+    ],
+    "to": [
+      "do",
+      "finish"
+    ]
+  },
+  {
+    "from": [
+      "according to our records"
+    ],
+    "to": [
+      "our records show"
+    ]
+  },
+  {
+    "from": [
+      "accordingly"
+    ],
+    "to": [
+      "in line with this",
+      "so"
+    ]
+  },
+  {
+    "from": [
+      "acknowledge"
+    ],
+    "to": [
+      "thank you for"
+    ]
+  },
+  {
+    "from": [
+      "acquaint yourself with"
+    ],
+    "to": [
+      "find out about",
+      "read"
+    ]
+  },
+  {
+    "from": [
+      "acquiesce"
+    ],
+    "to": [
+      "agree"
+    ]
+  },
+  {
+    "from": [
+      "acquire"
+    ],
+    "to": [
+      "buy",
+      "get"
+    ]
+  },
+  {
+    "from": [
+      "additional"
+    ],
+    "to": [
+      "extra",
+      "more"
+    ]
+  },
+  {
+    "from": [
+      "adjacent"
+    ],
+    "to": [
+      "next to"
+    ]
+  },
+  {
+    "from": [
+      "adjustment"
+    ],
+    "to": [
+      "change",
+      "alteration"
+    ]
+  },
+  {
+    "from": [
+      "admissible"
+    ],
+    "to": [
+      "allowed",
+      "acceptable"
+    ]
+  },
+  {
+    "from": [
+      "advantageous"
+    ],
+    "to": [
+      "useful",
+      "helpful"
+    ]
+  },
+  {
+    "from": [
+      "advise"
+    ],
+    "to": [
+      "tell",
+      "say"
+    ],
+    "note": "unless you are giving advice"
+  },
+  {
+    "from": [
+      "affix"
+    ],
+    "to": [
+      "add",
+      "write",
+      "fasten",
+      "stick on",
+      "fix to"
+    ]
+  },
+  {
+    "from": [
+      "afford an opportunity"
+    ],
+    "to": [
+      "let",
+      "allow"
+    ]
+  },
+  {
+    "from": [
+      "afforded"
+    ],
+    "to": [
+      "given"
+    ]
+  },
+  {
+    "from": [
+      "aforesaid"
+    ],
+    "to": [
+      "this",
+      "earlier in this document"
+    ]
+  },
+  {
+    "from": [
+      "aggregate"
+    ],
+    "to": [
+      "total"
+    ]
+  },
+  {
+    "from": [
+      "aligned"
+    ],
+    "to": [
+      "lined up",
+      "in line"
+    ]
+  },
+  {
+    "from": [
+      "alleviate"
+    ],
+    "to": [
+      "ease",
+      "reduce"
+    ]
+  },
+  {
+    "from": [
+      "allocate"
+    ],
+    "to": [
+      "divide",
+      "share",
+      "give"
+    ]
+  },
+  {
+    "from": [
+      "along the lines of"
+    ],
+    "to": [
+      "like",
+      "as in"
+    ]
+  },
+  {
+    "from": [
+      "alternative"
+    ],
+    "to": [
+      {
+        "article": "a",
+        "text": "choice"
+      },
+      {
+        "article": "the",
+        "text": "other"
+      }
+    ]
+  },
+  {
+    "from": [
+      "alternatively"
+    ],
+    "to": [
+      "or",
+      "on the other hand"
+    ]
+  },
+  {
+    "from": [
+      "ameliorate"
+    ],
+    "to": [
+      "improve",
+      "help"
+    ]
+  },
+  {
+    "from": [
+      "amendment"
+    ],
+    "to": [
+      "change"
+    ]
+  },
+  {
+    "from": [
+      "anticipate"
+    ],
+    "to": [
+      "expect"
+    ]
+  },
+  {
+    "from": [
+      "apparent"
+    ],
+    "to": [
+      "clear",
+      "plain",
+      "obvious",
+      "seeming"
+    ]
+  },
+  {
+    "from": [
+      {
+        "article": "the",
+        "text": "applicant"
+      }
+    ],
+    "to": [
+      "you"
+    ]
+  },
+  {
+    "from": [
+      "application"
+    ],
+    "to": [
+      "use"
+    ]
+  },
+  {
+    "from": [
+      "appreciable"
+    ],
+    "to": [
+      "large",
+      "great"
+    ]
+  },
+  {
+    "from": [
+      "apprise"
+    ],
+    "to": [
+      "inform",
+      "tell"
+    ]
+  },
+  {
+    "from": [
+      "appropriate"
+    ],
+    "to": [
+      "proper",
+      "right",
+      "suitable"
+    ]
+  },
+  {
+    "from": [
+      "appropriate to"
+    ],
+    "to": [
+      "suitable for"
+    ]
+  },
+  {
+    "from": [
+      "approximately"
+    ],
+    "to": [
+      "about",
+      "roughly"
+    ]
+  },
+  {
+    "from": [
+      "as a consequence of"
+    ],
+    "to": [
+      "because"
+    ]
+  },
+  {
+    "from": [
+      "as of the date of"
+    ],
+    "to": [
+      "from"
+    ]
+  },
+  {
+    "from": [
+      "as regards"
+    ],
+    "to": [
+      "about",
+      "on the subject of"
+    ]
+  },
+  {
+    "from": [
+      "ascertain"
+    ],
+    "to": [
+      "find out"
+    ]
+  },
+  {
+    "from": [
+      "assemble"
+    ],
+    "to": [
+      "build",
+      "gather",
+      "put together"
+    ]
+  },
+  {
+    "from": [
+      "assistance"
+    ],
+    "to": [
+      "help"
+    ]
+  },
+  {
+    "from": [
+      "at an early date"
+    ],
+    "to": [
+      "soon",
+      {
+        "instruction": "say when"
+      }
+    ]
+  },
+  {
+    "from": [
+      "at its discretion"
+    ],
+    "to": [
+      "can",
+      "may",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "at the moment"
+    ],
+    "to": [
+      "now",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "at the present time"
+    ],
+    "to": [
+      "now",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "attempt"
+    ],
+    "to": [
+      "try"
+    ]
+  },
+  {
+    "from": [
+      "attend"
+    ],
+    "to": [
+      "come to",
+      "go to",
+      "be at"
+    ]
+  },
+  {
+    "from": [
+      "attributable to"
+    ],
+    "to": [
+      "due to",
+      "because of"
+    ]
+  },
+  {
+    "from": [
+      "authorise"
+    ],
+    "to": [
+      "allow",
+      "let"
+    ]
+  },
+  {
+    "from": [
+      "authority"
+    ],
+    "to": [
+      "right",
+      "power",
+      {
+        "text": "may",
+        "note": "as in \"have the authority to\""
+      }
+    ]
+  },
+  {
+    "from": [
+      "axiomatic"
+    ],
+    "to": [
+      "obvious",
+      "goes without saying"
+    ]
+  },
+  {
+    "from": [
+      "belated"
+    ],
+    "to": [
+      "late"
+    ]
+  },
+  {
+    "from": [
+      "beneficial"
+    ],
+    "to": [
+      "helpful",
+      "useful"
+    ]
+  },
+  {
+    "from": [
+      "bestow"
+    ],
+    "to": [
+      "give",
+      "award"
+    ]
+  },
+  {
+    "from": [
+      "breach"
+    ],
+    "to": [
+      "break"
+    ]
+  },
+  {
+    "from": [
+      "by means of"
+    ],
+    "to": [
+      "by"
+    ]
+  },
+  {
+    "from": [
+      "calculate"
+    ],
+    "to": [
+      "work out",
+      "decide"
+    ]
+  },
+  {
+    "from": [
+      "cease"
+    ],
+    "to": [
+      "finish",
+      "stop",
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "circumvent"
+    ],
+    "to": [
+      "get round",
+      "avoid",
+      "skirt",
+      "circle"
+    ]
+  },
+  {
+    "from": [
+      "clarification"
+    ],
+    "to": [
+      "explanation",
+      "help"
+    ]
+  },
+  {
+    "from": [
+      "combine"
+    ],
+    "to": [
+      "mix"
+    ]
+  },
+  {
+    "from": [
+      "combined"
+    ],
+    "to": [
+      "together"
+    ]
+  },
+  {
+    "from": [
+      "commence"
+    ],
+    "to": [
+      "start",
+      "begin"
+    ]
+  },
+  {
+    "from": [
+      "communicate"
+    ],
+    "to": [
+      "talk",
+      "write",
+      "telephone"
+    ],
+    "note": "be specific"
+  },
+  {
+    "from": [
+      "competent"
+    ],
+    "to": [
+      "able",
+      "can"
+    ]
+  },
+  {
+    "from": [
+      "compile"
+    ],
+    "to": [
+      "make",
+      "collect"
+    ]
+  },
+  {
+    "from": [
+      "complete"
+    ],
+    "to": [
+      "fill in",
+      "finish"
+    ]
+  },
+  {
+    "from": [
+      "completion"
+    ],
+    "to": [
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "comply with"
+    ],
+    "to": [
+      "keep to",
+      "meet"
+    ]
+  },
+  {
+    "from": [
+      "component"
+    ],
+    "to": [
+      "part"
+    ]
+  },
+  {
+    "from": [
+      "comprises"
+    ],
+    "to": [
+      "is made up of",
+      "includes"
+    ]
+  },
+  {
+    "from": [
+      "it is compulsory",
+      "compulsory"
+    ],
+    "to": [
+      "must",
+      "you must"
+    ]
+  },
+  {
+    "from": [
+      "conceal"
+    ],
+    "to": [
+      "hide"
+    ]
+  },
+  {
+    "from": [
+      "concerning"
+    ],
+    "to": [
+      "about",
+      "on"
+    ]
+  },
+  {
+    "from": [
+      "conclusion"
+    ],
+    "to": [
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "concur"
+    ],
+    "to": [
+      "agree"
+    ]
+  },
+  {
+    "from": [
+      "condition"
+    ],
+    "to": [
+      "rule"
+    ]
+  },
+  {
+    "from": [
+      "consequently"
+    ],
+    "to": [
+      "so"
+    ]
+  },
+  {
+    "from": [
+      "considerable"
+    ],
+    "to": [
+      "great",
+      "important"
+    ]
+  },
+  {
+    "from": [
+      "constitutes"
+    ],
+    "to": [
+      "makes up",
+      "forms",
+      "is"
+    ]
+  },
+  {
+    "from": [
+      "construe"
+    ],
+    "to": [
+      "interpret"
+    ]
+  },
+  {
+    "from": [
+      "consult"
+    ],
+    "to": [
+      "talk to",
+      "meet",
+      "ask"
+    ]
+  },
+  {
+    "from": [
+      "consumption"
+    ],
+    "to": [
+      "amount used"
+    ]
+  },
+  {
+    "from": [
+      "contemplate"
+    ],
+    "to": [
+      "think about"
+    ]
+  },
+  {
+    "from": [
+      "contrary to"
+    ],
+    "to": [
+      "against",
+      "despite"
+    ]
+  },
+  {
+    "from": [
+      "correct"
+    ],
+    "to": [
+      "put right"
+    ]
+  },
+  {
+    "from": [
+      "correspond"
+    ],
+    "to": [
+      "write"
+    ]
+  },
+  {
+    "from": [
+      "costs the sum of"
+    ],
+    "to": [
+      "costs"
+    ]
+  },
+  {
+    "from": [
+      "counter"
+    ],
+    "to": [
+      "against"
+    ]
+  },
+  {
+    "from": [
+      "courteous"
+    ],
+    "to": [
+      "polite"
+    ]
+  },
+  {
+    "from": [
+      "cumulative"
+    ],
+    "to": [
+      "added up",
+      "added together"
+    ]
+  },
+  {
+    "from": [
+      "currently"
+    ],
+    "to": [
+      "now",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "customary"
+    ],
+    "to": [
+      "usual",
+      "normal"
+    ]
+  },
+  {
+    "from": [
+      "deduct"
+    ],
+    "to": [
+      "take off",
+      "take away"
+    ]
+  },
+  {
+    "from": [
+      "deem to be"
+    ],
+    "to": [
+      "treat as"
+    ]
+  },
+  {
+    "from": [
+      "defer"
+    ],
+    "to": [
+      "put off",
+      "delay"
+    ]
+  },
+  {
+    "from": [
+      "deficiency"
+    ],
+    "to": [
+      "lack of"
+    ]
+  },
+  {
+    "from": [
+      "delete"
+    ],
+    "to": [
+      "cross out"
+    ]
+  },
+  {
+    "from": [
+      "demonstrate"
+    ],
+    "to": [
+      "show",
+      "prove"
+    ]
+  },
+  {
+    "from": [
+      "denote"
+    ],
+    "to": [
+      "show"
+    ]
+  },
+  {
+    "from": [
+      "depict"
+    ],
+    "to": [
+      "show"
+    ]
+  },
+  {
+    "from": [
+      "designate"
+    ],
+    "to": [
+      "point out",
+      "show",
+      "name"
+    ]
+  },
+  {
+    "from": [
+      "desire"
+    ],
+    "to": [
+      "wish",
+      "want"
+    ]
+  },
+  {
+    "from": [
+      "despatch or dispatch"
+    ],
+    "to": [
+      "send",
+      "post"
+    ]
+  },
+  {
+    "from": [
+      "despite the fact that"
+    ],
+    "to": [
+      "though",
+      "although"
+    ]
+  },
+  {
+    "from": [
+      "determine"
+    ],
+    "to": [
+      "decide",
+      "work out",
+      "set",
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "detrimental"
+    ],
+    "to": [
+      "harmful",
+      "damaging"
+    ]
+  },
+  {
+    "from": [
+      "difficulties"
+    ],
+    "to": [
+      "problems"
+    ]
+  },
+  {
+    "from": [
+      "diminish"
+    ],
+    "to": [
+      "lessen",
+      "reduce"
+    ]
+  },
+  {
+    "from": [
+      "disburse"
+    ],
+    "to": [
+      "pay",
+      "pay out"
+    ]
+  },
+  {
+    "from": [
+      "discharge"
+    ],
+    "to": [
+      "carry out"
+    ]
+  },
+  {
+    "from": [
+      "disclose"
+    ],
+    "to": [
+      "tell",
+      "show"
+    ]
+  },
+  {
+    "from": [
+      "disconnect"
+    ],
+    "to": [
+      "cut off",
+      "unplug"
+    ]
+  },
+  {
+    "from": [
+      "discontinue"
+    ],
+    "to": [
+      "stop",
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "discrete"
+    ],
+    "to": [
+      "separate"
+    ]
+  },
+  {
+    "from": [
+      "discuss"
+    ],
+    "to": [
+      "talk about"
+    ]
+  },
+  {
+    "from": [
+      "disseminate"
+    ],
+    "to": [
+      "spread"
+    ]
+  },
+  {
+    "from": [
+      "documentation"
+    ],
+    "to": [
+      "papers",
+      "documents"
+    ]
+  },
+  {
+    "from": [
+      "domiciled in"
+    ],
+    "to": [
+      "living in"
+    ]
+  },
+  {
+    "from": [
+      "dominant"
+    ],
+    "to": [
+      "main"
+    ]
+  },
+  {
+    "from": [
+      "due to the fact that"
+    ],
+    "to": [
+      "because",
+      "as"
+    ]
+  },
+  {
+    "from": [
+      "duration"
+    ],
+    "to": [
+      "time",
+      "life"
+    ]
+  },
+  {
+    "from": [
+      "during which time"
+    ],
+    "to": [
+      "while"
+    ]
+  },
+  {
+    "from": [
+      "dwelling"
+    ],
+    "to": [
+      "home"
+    ]
+  },
+  {
+    "from": [
+      "economical"
+    ],
+    "to": [
+      "cheap",
+      "good value"
+    ]
+  },
+  {
+    "from": [
+      "eligible"
+    ],
+    "to": [
+      "allowed",
+      "qualified"
+    ]
+  },
+  {
+    "from": [
+      "elucidate"
+    ],
+    "to": [
+      "explain",
+      "make clear"
+    ]
+  },
+  {
+    "from": [
+      "emphasise"
+    ],
+    "to": [
+      "stress"
+    ]
+  },
+  {
+    "from": [
+      "empower"
+    ],
+    "to": [
+      "allow",
+      "let"
+    ]
+  },
+  {
+    "from": [
+      "enable"
+    ],
+    "to": [
+      "allow"
+    ]
+  },
+  {
+    "from": [
+      "enclosed"
+    ],
+    "to": [
+      "inside",
+      "with"
+    ]
+  },
+  {
+    "from": [
+      "please find enclosed",
+      "enclosed"
+    ],
+    "to": [
+      "I enclose"
+    ]
+  },
+  {
+    "from": [
+      "encounter"
+    ],
+    "to": [
+      "meet"
+    ]
+  },
+  {
+    "from": [
+      "endeavour"
+    ],
+    "to": [
+      "try"
+    ]
+  },
+  {
+    "from": [
+      "enquire"
+    ],
+    "to": [
+      "ask"
+    ]
+  },
+  {
+    "from": [
+      "enquiry"
+    ],
+    "to": [
+      "question"
+    ]
+  },
+  {
+    "from": [
+      "ensure"
+    ],
+    "to": [
+      "make sure"
+    ]
+  },
+  {
+    "from": [
+      "entitlement"
+    ],
+    "to": [
+      "right"
+    ]
+  },
+  {
+    "from": [
+      "envisage"
+    ],
+    "to": [
+      "expect",
+      "imagine"
+    ]
+  },
+  {
+    "from": [
+      "equivalent"
+    ],
+    "to": [
+      "equal",
+      "the same"
+    ]
+  },
+  {
+    "from": [
+      "erroneous"
+    ],
+    "to": [
+      "wrong"
+    ]
+  },
+  {
+    "from": [
+      "establish"
+    ],
+    "to": [
+      "show",
+      "find out",
+      "set up"
+    ]
+  },
+  {
+    "from": [
+      "evaluate"
+    ],
+    "to": [
+      "test",
+      "check"
+    ]
+  },
+  {
+    "from": [
+      "evince"
+    ],
+    "to": [
+      "show",
+      "prove"
+    ]
+  },
+  {
+    "from": [
+      "ex officio"
+    ],
+    "to": [
+      "because of his or her position"
+    ]
+  },
+  {
+    "from": [
+      "exceptionally"
+    ],
+    "to": [
+      "only when",
+      "in this case"
+    ]
+  },
+  {
+    "from": [
+      "excessive"
+    ],
+    "to": [
+      "too many",
+      "too much"
+    ]
+  },
+  {
+    "from": [
+      "exclude"
+    ],
+    "to": [
+      "leave out"
+    ]
+  },
+  {
+    "from": [
+      "excluding"
+    ],
+    "to": [
+      "apart from",
+      "except"
+    ]
+  },
+  {
+    "from": [
+      "exclusively"
+    ],
+    "to": [
+      "only"
+    ]
+  },
+  {
+    "from": [
+      "exempt from"
+    ],
+    "to": [
+      "free from"
+    ]
+  },
+  {
+    "from": [
+      "expedite"
+    ],
+    "to": [
+      "hurry",
+      "speed up"
+    ]
+  },
+  {
+    "from": [
+      "expeditiously"
+    ],
+    "to": [
+      "as soon as possible",
+      "quickly"
+    ]
+  },
+  {
+    "from": [
+      "expenditure"
+    ],
+    "to": [
+      "spending"
+    ]
+  },
+  {
+    "from": [
+      "expire"
+    ],
+    "to": [
+      "run out"
+    ]
+  },
+  {
+    "from": [
+      "extant"
+    ],
+    "to": [
+      "current",
+      "in force"
+    ]
+  },
+  {
+    "from": [
+      "extremity"
+    ],
+    "to": [
+      "limit"
+    ]
+  },
+  {
+    "from": [
+      "fabricate"
+    ],
+    "to": [
+      "make",
+      "make up"
+    ]
+  },
+  {
+    "from": [
+      "facilitate"
+    ],
+    "to": [
+      "help",
+      "make possible"
+    ]
+  },
+  {
+    "from": [
+      "factor"
+    ],
+    "to": [
+      "reason"
+    ]
+  },
+  {
+    "from": [
+      "failure to"
+    ],
+    "to": [
+      "if you do not"
+    ]
+  },
+  {
+    "from": [
+      "finalise"
+    ],
+    "to": [
+      "end",
+      "finish"
+    ]
+  },
+  {
+    "from": [
+      "following"
+    ],
+    "to": [
+      "after"
+    ]
+  },
+  {
+    "from": [
+      "for the duration of"
+    ],
+    "to": [
+      "during",
+      "while"
+    ]
+  },
+  {
+    "from": [
+      "for the purpose of"
+    ],
+    "to": [
+      "to",
+      "for"
+    ]
+  },
+  {
+    "from": [
+      "for the reason that"
+    ],
+    "to": [
+      "because"
+    ]
+  },
+  {
+    "from": [
+      "formulate"
+    ],
+    "to": [
+      "plan",
+      "devise"
+    ]
+  },
+  {
+    "from": [
+      "forthwith"
+    ],
+    "to": [
+      "now",
+      "at once"
+    ]
+  },
+  {
+    "from": [
+      "forward"
+    ],
+    "to": [
+      "send"
+    ]
+  },
+  {
+    "from": [
+      "frequently"
+    ],
+    "to": [
+      "often"
+    ]
+  },
+  {
+    "from": [
+      "furnish"
+    ],
+    "to": [
+      "give"
+    ]
+  },
+  {
+    "from": [
+      "further to"
+    ],
+    "to": [
+      "after",
+      "following"
+    ]
+  },
+  {
+    "from": [
+      "furthermore"
+    ],
+    "to": [
+      "then",
+      "also",
+      "and"
+    ]
+  },
+  {
+    "from": [
+      "generate"
+    ],
+    "to": [
+      "produce",
+      "give",
+      "make"
+    ]
+  },
+  {
+    "from": [
+      "give consideration to"
+    ],
+    "to": [
+      "consider",
+      "think about"
+    ]
+  },
+  {
+    "from": [
+      "grant"
+    ],
+    "to": [
+      "give"
+    ]
+  },
+  {
+    "from": [
+      "henceforth"
+    ],
+    "to": [
+      "from now on",
+      "from today"
+    ]
+  },
+  {
+    "from": [
+      "hereby"
+    ],
+    "to": [
+      "now",
+      "by this",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "herein"
+    ],
+    "to": [
+      "here",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "hereinafter"
+    ],
+    "to": [
+      "after this",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "hereof"
+    ],
+    "to": [
+      "of this"
+    ]
+  },
+  {
+    "from": [
+      "hereto"
+    ],
+    "to": [
+      "to this"
+    ]
+  },
+  {
+    "from": [
+      "heretofore"
+    ],
+    "to": [
+      "until now",
+      "previously"
+    ]
+  },
+  {
+    "from": [
+      "hereunder"
+    ],
+    "to": [
+      "below"
+    ]
+  },
+  {
+    "from": [
+      "herewith"
+    ],
+    "to": [
+      "with this",
+      {
+        "instruction": "edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "hitherto"
+    ],
+    "to": [
+      "until now"
+    ]
+  },
+  {
+    "from": [
+      "hold in abeyance"
+    ],
+    "to": [
+      "wait",
+      "postpone"
+    ]
+  },
+  {
+    "from": [
+      "hope and trust"
+    ],
+    "to": [
+      "hope",
+      "trust"
+    ],
+    "note": "but not both"
+  },
+  {
+    "from": [
+      "if and when"
+    ],
+    "to": [
+      "if",
+      "when"
+    ],
+    "note": "but not both"
+  },
+  {
+    "from": [
+      "illustrate"
+    ],
+    "to": [
+      "show",
+      "explain"
+    ]
+  },
+  {
+    "from": [
+      "immediately"
+    ],
+    "to": [
+      "at once",
+      "now"
+    ]
+  },
+  {
+    "from": [
+      "implement"
+    ],
+    "to": [
+      "carry out",
+      "do"
+    ]
+  },
+  {
+    "from": [
+      "imply"
+    ],
+    "to": [
+      "suggest",
+      "hint at"
+    ]
+  },
+  {
+    "from": [
+      "in a number of cases"
+    ],
+    "to": [
+      "some",
+      {
+        "instruction": "say how many"
+      }
+    ]
+  },
+  {
+    "from": [
+      "in accordance with"
+    ],
+    "to": [
+      "as under",
+      "in line with",
+      "because of"
+    ]
+  },
+  {
+    "from": [
+      "in addition",
+      "in addition to"
+    ],
+    "to": [
+      "and",
+      "as well as",
+      "also"
+    ]
+  },
+  {
+    "from": [
+      "in advance"
+    ],
+    "to": [
+      "before"
+    ]
+  },
+  {
+    "from": [
+      "in case of"
+    ],
+    "to": [
+      "if"
+    ]
+  },
+  {
+    "from": [
+      "in conjunction with"
+    ],
+    "to": [
+      "and",
+      "with"
+    ]
+  },
+  {
+    "from": [
+      "in connection with"
+    ],
+    "to": [
+      "for",
+      "about"
+    ]
+  },
+  {
+    "from": [
+      "in consequence"
+    ],
+    "to": [
+      "because",
+      "as a result"
+    ]
+  },
+  {
+    "from": [
+      "in excess of"
+    ],
+    "to": [
+      "more than"
+    ]
+  },
+  {
+    "from": [
+      "in lieu of"
+    ],
+    "to": [
+      "instead of"
+    ]
+  },
+  {
+    "from": [
+      "in order that"
+    ],
+    "to": [
+      "so that"
+    ]
+  },
+  {
+    "from": [
+      "in receipt of"
+    ],
+    "to": [
+      "get",
+      "have",
+      "receive"
+    ]
+  },
+  {
+    "from": [
+      "in relation to"
+    ],
+    "to": [
+      "about"
+    ]
+  },
+  {
+    "from": [
+      "in respect of"
+    ],
+    "to": [
+      "about",
+      "for"
+    ]
+  },
+  {
+    "from": [
+      "in the absence of"
+    ],
+    "to": [
+      "without"
+    ]
+  },
+  {
+    "from": [
+      "in the course of"
+    ],
+    "to": [
+      "while",
+      "during"
+    ]
+  },
+  {
+    "from": [
+      "in the event of/that"
+    ],
+    "to": [
+      "if"
+    ]
+  },
+  {
+    "from": [
+      "in the majority of instances"
+    ],
+    "to": [
+      "most",
+      "mostly"
+    ]
+  },
+  {
+    "from": [
+      "in the near future"
+    ],
+    "to": [
+      "soon"
+    ]
+  },
+  {
+    "from": [
+      "in the neighbourhood of"
+    ],
+    "to": [
+      "about",
+      "around"
+    ]
+  },
+  {
+    "from": [
+      "in view of the fact that"
+    ],
+    "to": [
+      "as",
+      "because"
+    ]
+  },
+  {
+    "from": [
+      "inappropriate"
+    ],
+    "to": [
+      "wrong",
+      "unsuitable"
+    ]
+  },
+  {
+    "from": [
+      "inception"
+    ],
+    "to": [
+      "start",
+      "beginning"
+    ]
+  },
+  {
+    "from": [
+      "incorporating"
+    ],
+    "to": [
+      "which includes"
+    ]
+  },
+  {
+    "from": [
+      "incur"
+    ],
+    "to": [
+      "have to pay",
+      "owe"
+    ]
+  },
+  {
+    "from": [
+      "indicate"
+    ],
+    "to": [
+      "show",
+      "suggest"
+    ]
+  },
+  {
+    "from": [
+      "inform"
+    ],
+    "to": [
+      "tell"
+    ]
+  },
+  {
+    "from": [
+      "initially"
+    ],
+    "to": [
+      "at first"
+    ]
+  },
+  {
+    "from": [
+      "initiate"
+    ],
+    "to": [
+      "begin",
+      "start"
+    ]
+  },
+  {
+    "from": [
+      "insert"
+    ],
+    "to": [
+      "put in"
+    ]
+  },
+  {
+    "from": [
+      "instances"
+    ],
+    "to": [
+      "cases"
+    ]
+  },
+  {
+    "from": [
+      "intend to"
+    ],
+    "to": [
+      "will"
+    ]
+  },
+  {
+    "from": [
+      "intimate"
+    ],
+    "to": [
+      "say",
+      "hint"
+    ]
+  },
+  {
+    "from": [
+      "irrespective of"
+    ],
+    "to": [
+      "despite",
+      "even if"
+    ]
+  },
+  {
+    "from": [
+      "is of the opinion"
+    ],
+    "to": [
+      "thinks"
+    ]
+  },
+  {
+    "from": [
+      "issue"
+    ],
+    "to": [
+      "give",
+      "send"
+    ]
+  },
+  {
+    "from": [
+      "it is known that"
+    ],
+    "to": [
+      "I/we know that"
+    ]
+  },
+  {
+    "from": [
+      "jeopardise"
+    ],
+    "to": [
+      "risk",
+      "threaten"
+    ]
+  },
+  {
+    "from": [
+      {
+        "article": "a",
+        "text": "large number of"
+      }
+    ],
+    "to": [
+      "many",
+      "most",
+      {
+        "instruction": "or say how many"
+      }
+    ]
+  },
+  {
+    "from": [
+      "locality"
+    ],
+    "to": [
+      "place",
+      "area"
+    ]
+  },
+  {
+    "from": [
+      "locate"
+    ],
+    "to": [
+      "find",
+      "put"
+    ]
+  },
+  {
+    "from": [
+      "magnitude"
+    ],
+    "to": [
+      "size"
+    ]
+  },
+  {
+    "from": [
+      "it is mandatory",
+      "mandatory"
+    ],
+    "to": [
+      "you must",
+      "must"
+    ]
+  },
+  {
+    "from": [
+      "manner"
+    ],
+    "to": [
+      "way"
+    ]
+  },
+  {
+    "from": [
+      "manufacture"
+    ],
+    "to": [
+      "make"
+    ]
+  },
+  {
+    "from": [
+      "marginal"
+    ],
+    "to": [
+      "small",
+      "slight"
+    ]
+  },
+  {
+    "from": [
+      "material"
+    ],
+    "to": [
+      "relevant"
+    ]
+  },
+  {
+    "from": [
+      "materialise"
+    ],
+    "to": [
+      "happen",
+      "occur"
+    ]
+  },
+  {
+    "from": [
+      "may in the future"
+    ],
+    "to": [
+      "may",
+      "might",
+      "could"
+    ]
+  },
+  {
+    "from": [
+      "merchandise"
+    ],
+    "to": [
+      "goods"
+    ]
+  },
+  {
+    "from": [
+      "mislay"
+    ],
+    "to": [
+      "lose"
+    ]
+  },
+  {
+    "from": [
+      "modification"
+    ],
+    "to": [
+      "change"
+    ]
+  },
+  {
+    "from": [
+      "moreover"
+    ],
+    "to": [
+      "and",
+      "also",
+      "as well"
+    ]
+  },
+  {
+    "from": [
+      "negligible"
+    ],
+    "to": [
+      "very small"
+    ]
+  },
+  {
+    "from": [
+      "nevertheless"
+    ],
+    "to": [
+      "but",
+      "however",
+      "even so"
+    ]
+  },
+  {
+    "from": [
+      "notify"
+    ],
+    "to": [
+      "tell",
+      "let us know",
+      "let you know"
+    ]
+  },
+  {
+    "from": [
+      "notwithstanding"
+    ],
+    "to": [
+      "even if",
+      "despite",
+      "still",
+      "yet"
+    ]
+  },
+  {
+    "from": [
+      "numerous"
+    ],
+    "to": [
+      "many",
+      {
+        "instruction": "say how many"
+      }
+    ]
+  },
+  {
+    "from": [
+      "objective"
+    ],
+    "to": [
+      "aim",
+      "goal"
+    ]
+  },
+  {
+    "from": [
+      "it is obligatory",
+      "obligatory"
+    ],
+    "to": [
+      "you must",
+      "must"
+    ]
+  },
+  {
+    "from": [
+      "obtain"
+    ],
+    "to": [
+      "get",
+      "receive"
+    ]
+  },
+  {
+    "from": [
+      "occasioned by"
+    ],
+    "to": [
+      "caused by",
+      "because of"
+    ]
+  },
+  {
+    "from": [
+      "on behalf of"
+    ],
+    "to": [
+      "for"
+    ]
+  },
+  {
+    "from": [
+      "on numerous occasions"
+    ],
+    "to": [
+      "often"
+    ]
+  },
+  {
+    "from": [
+      "on request"
+    ],
+    "to": [
+      "if you ask"
+    ]
+  },
+  {
+    "from": [
+      "on the grounds that"
+    ],
+    "to": [
+      "because"
+    ]
+  },
+  {
+    "from": [
+      "on the occasion that"
+    ],
+    "to": [
+      "when",
+      "if"
+    ]
+  },
+  {
+    "from": [
+      "operate"
+    ],
+    "to": [
+      "work",
+      "run"
+    ]
+  },
+  {
+    "from": [
+      "optimum"
+    ],
+    "to": [
+      "best",
+      "ideal"
+    ]
+  },
+  {
+    "from": [
+      "option"
+    ],
+    "to": [
+      "choice"
+    ]
+  },
+  {
+    "from": [
+      "ordinarily"
+    ],
+    "to": [
+      "normally",
+      "usually"
+    ]
+  },
+  {
+    "from": [
+      "otherwise"
+    ],
+    "to": [
+      "or"
+    ]
+  },
+  {
+    "from": [
+      "outstanding"
+    ],
+    "to": [
+      "unpaid"
+    ]
+  },
+  {
+    "from": [
+      "owing to"
+    ],
+    "to": [
+      "because of"
+    ]
+  },
+  {
+    "from": [
+      "partially"
+    ],
+    "to": [
+      "partly"
+    ]
+  },
+  {
+    "from": [
+      "participate"
+    ],
+    "to": [
+      "join in",
+      "take part"
+    ]
+  },
+  {
+    "from": [
+      "particulars"
+    ],
+    "to": [
+      "details",
+      "facts"
+    ]
+  },
+  {
+    "from": [
+      "per annum"
+    ],
+    "to": [
+      "a year"
+    ]
+  },
+  {
+    "from": [
+      "perform"
+    ],
+    "to": [
+      "do"
+    ]
+  },
+  {
+    "from": [
+      "permissible"
+    ],
+    "to": [
+      "allowed"
+    ]
+  },
+  {
+    "from": [
+      "permit"
+    ],
+    "to": [
+      "let",
+      "allow"
+    ]
+  },
+  {
+    "from": [
+      "personnel"
+    ],
+    "to": [
+      "people",
+      "staff"
+    ]
+  },
+  {
+    "from": [
+      "persons"
+    ],
+    "to": [
+      "people",
+      "anyone"
+    ]
+  },
+  {
+    "from": [
+      "peruse"
+    ],
+    "to": [
+      "read",
+      "read carefully",
+      "look at"
+    ]
+  },
+  {
+    "from": [
+      "place"
+    ],
+    "to": [
+      "put"
+    ]
+  },
+  {
+    "from": [
+      "possess"
+    ],
+    "to": [
+      "have",
+      "own"
+    ]
+  },
+  {
+    "from": [
+      "possessions"
+    ],
+    "to": [
+      "belongings"
+    ]
+  },
+  {
+    "from": [
+      "practically"
+    ],
+    "to": [
+      "almost",
+      "nearly"
+    ]
+  },
+  {
+    "from": [
+      "predominant"
+    ],
+    "to": [
+      "main"
+    ]
+  },
+  {
+    "from": [
+      "prescribe"
+    ],
+    "to": [
+      "set",
+      "fix"
+    ]
+  },
+  {
+    "from": [
+      "preserve"
+    ],
+    "to": [
+      "keep",
+      "protect"
+    ]
+  },
+  {
+    "from": [
+      "previous"
+    ],
+    "to": [
+      "earlier",
+      "before",
+      "last"
+    ]
+  },
+  {
+    "from": [
+      "principal"
+    ],
+    "to": [
+      "main"
+    ]
+  },
+  {
+    "from": [
+      "prior to"
+    ],
+    "to": [
+      "before"
+    ]
+  },
+  {
+    "from": [
+      "proceed"
+    ],
+    "to": [
+      "go ahead"
+    ]
+  },
+  {
+    "from": [
+      "procure"
+    ],
+    "to": [
+      "get",
+      "obtain",
+      "arrange"
+    ]
+  },
+  {
+    "from": [
+      "profusion of"
+    ],
+    "to": [
+      "plenty",
+      "too many",
+      {
+        "instruction": "say how many"
+      }
+    ]
+  },
+  {
+    "from": [
+      "prohibit"
+    ],
+    "to": [
+      "ban",
+      "stop"
+    ]
+  },
+  {
+    "from": [
+      "projected"
+    ],
+    "to": [
+      "estimated"
+    ]
+  },
+  {
+    "from": [
+      "prolonged"
+    ],
+    "to": [
+      "long"
+    ]
+  },
+  {
+    "from": [
+      "promptly"
+    ],
+    "to": [
+      "quickly",
+      "at once"
+    ]
+  },
+  {
+    "from": [
+      "promulgate"
+    ],
+    "to": [
+      "advertise",
+      "announce"
+    ]
+  },
+  {
+    "from": [
+      "proportion"
+    ],
+    "to": [
+      "part"
+    ]
+  },
+  {
+    "from": [
+      "provide"
+    ],
+    "to": [
+      "give"
+    ]
+  },
+  {
+    "from": [
+      "provided that"
+    ],
+    "to": [
+      "if",
+      "as long as"
+    ]
+  },
+  {
+    "from": [
+      "provisions"
+    ],
+    "to": [
+      "rules",
+      "terms"
+    ]
+  },
+  {
+    "from": [
+      "proximity"
+    ],
+    "to": [
+      "closeness",
+      "nearness"
+    ]
+  },
+  {
+    "from": [
+      "purchase"
+    ],
+    "to": [
+      "buy"
+    ]
+  },
+  {
+    "from": [
+      "pursuant to"
+    ],
+    "to": [
+      "under",
+      "because of",
+      "in line with"
+    ]
+  },
+  {
+    "from": [
+      "reconsider"
+    ],
+    "to": [
+      "think again about",
+      "look again at"
+    ]
+  },
+  {
+    "from": [
+      "reduce"
+    ],
+    "to": [
+      "cut"
+    ]
+  },
+  {
+    "from": [
+      "reduction"
+    ],
+    "to": [
+      "cut"
+    ]
+  },
+  {
+    "from": [
+      "referred to as"
+    ],
+    "to": [
+      "called"
+    ]
+  },
+  {
+    "from": [
+      "refers to"
+    ],
+    "to": [
+      "talks about",
+      "mentions"
+    ]
+  },
+  {
+    "from": [
+      "have regard to",
+      "regard to"
+    ],
+    "to": [
+      "take into account"
+    ]
+  },
+  {
+    "from": [
+      "regarding"
+    ],
+    "to": [
+      "about",
+      "on"
+    ]
+  },
+  {
+    "from": [
+      "regulation"
+    ],
+    "to": [
+      "rule"
+    ]
+  },
+  {
+    "from": [
+      "reimburse"
+    ],
+    "to": [
+      "repay",
+      "pay back"
+    ]
+  },
+  {
+    "from": [
+      "reiterate"
+    ],
+    "to": [
+      "repeat",
+      "restate"
+    ]
+  },
+  {
+    "from": [
+      "relating to"
+    ],
+    "to": [
+      "about"
+    ]
+  },
+  {
+    "from": [
+      "remain"
+    ],
+    "to": [
+      "stay"
+    ]
+  },
+  {
+    "from": [
+      "remainder"
+    ],
+    "to": [
+      "the rest",
+      "what is left"
+    ]
+  },
+  {
+    "from": [
+      "remittance"
+    ],
+    "to": [
+      "payment"
+    ]
+  },
+  {
+    "from": [
+      "remuneration"
+    ],
+    "to": [
+      "pay",
+      "wages",
+      "salary"
+    ]
+  },
+  {
+    "from": [
+      "render"
+    ],
+    "to": [
+      "make",
+      "give",
+      "send"
+    ]
+  },
+  {
+    "from": [
+      "report"
+    ],
+    "to": [
+      "tell"
+    ]
+  },
+  {
+    "from": [
+      "represents"
+    ],
+    "to": [
+      "shows",
+      "stands for",
+      "is"
+    ]
+  },
+  {
+    "from": [
+      "request"
+    ],
+    "to": [
+      "ask",
+      "question"
+    ]
+  },
+  {
+    "from": [
+      "require"
+    ],
+    "to": [
+      "need",
+      "want",
+      "force"
+    ]
+  },
+  {
+    "from": [
+      "requirements"
+    ],
+    "to": [
+      "needs",
+      "rules"
+    ]
+  },
+  {
+    "from": [
+      "reside"
+    ],
+    "to": [
+      "live"
+    ]
+  },
+  {
+    "from": [
+      "residence"
+    ],
+    "to": [
+      "home",
+      "where you live"
+    ]
+  },
+  {
+    "from": [
+      "restriction"
+    ],
+    "to": [
+      "limit"
+    ]
+  },
+  {
+    "from": [
+      "retain"
+    ],
+    "to": [
+      "keep"
+    ]
+  },
+  {
+    "from": [
+      "review"
+    ],
+    "to": [
+      "look at again",
+      "look at"
+    ]
+  },
+  {
+    "from": [
+      "revised"
+    ],
+    "to": [
+      "new",
+      "changed"
+    ]
+  },
+  {
+    "from": [
+      "said/such/same"
+    ],
+    "to": [
+      "the",
+      "this",
+      "that"
+    ]
+  },
+  {
+    "from": [
+      "scrutinise"
+    ],
+    "to": [
+      "read carefully",
+      "look at carefully"
+    ]
+  },
+  {
+    "from": [
+      "select"
+    ],
+    "to": [
+      "choose"
+    ]
+  },
+  {
+    "from": [
+      "settle"
+    ],
+    "to": [
+      "pay"
+    ]
+  },
+  {
+    "from": [
+      "similarly"
+    ],
+    "to": [
+      "also",
+      "in the same way"
+    ]
+  },
+  {
+    "from": [
+      "solely"
+    ],
+    "to": [
+      "only"
+    ]
+  },
+  {
+    "from": [
+      "specified"
+    ],
+    "to": [
+      "given",
+      "written",
+      "set"
+    ]
+  },
+  {
+    "from": [
+      "state"
+    ],
+    "to": [
+      "say",
+      "tell us",
+      "write down"
+    ]
+  },
+  {
+    "from": [
+      "statutory"
+    ],
+    "to": [
+      "legal",
+      "by law"
+    ]
+  },
+  {
+    "from": [
+      "subject to"
+    ],
+    "to": [
+      "depending on",
+      "under",
+      "keeping to"
+    ]
+  },
+  {
+    "from": [
+      "submit"
+    ],
+    "to": [
+      "send",
+      "give"
+    ]
+  },
+  {
+    "from": [
+      "subsequent to/upon"
+    ],
+    "to": [
+      "after"
+    ]
+  },
+  {
+    "from": [
+      "subsequently"
+    ],
+    "to": [
+      "later"
+    ]
+  },
+  {
+    "from": [
+      "substantial"
+    ],
+    "to": [
+      "large",
+      "great",
+      "a lot of"
+    ]
+  },
+  {
+    "from": [
+      "substantially"
+    ],
+    "to": [
+      "more or less"
+    ]
+  },
+  {
+    "from": [
+      "sufficient"
+    ],
+    "to": [
+      "enough"
+    ]
+  },
+  {
+    "from": [
+      "supplement"
+    ],
+    "to": [
+      "go with",
+      "add to"
+    ]
+  },
+  {
+    "from": [
+      "supplementary"
+    ],
+    "to": [
+      "extra",
+      "more"
+    ]
+  },
+  {
+    "from": [
+      "supply"
+    ],
+    "to": [
+      "give",
+      "sell",
+      "deliver"
+    ]
+  },
+  {
+    "from": [
+      {
+        "article": "the",
+        "text": "tenant"
+      }
+    ],
+    "to": [
+      "you"
+    ]
+  },
+  {
+    "from": [
+      "terminate"
+    ],
+    "to": [
+      "stop",
+      "end"
+    ]
+  },
+  {
+    "from": [
+      "that being the case"
+    ],
+    "to": [
+      "if so"
+    ]
+  },
+  {
+    "from": [
+      "the question as to whether"
+    ],
+    "to": [
+      "whether"
+    ]
+  },
+  {
+    "from": [
+      "thereafter"
+    ],
+    "to": [
+      "then",
+      "afterwards"
+    ]
+  },
+  {
+    "from": [
+      "thereby"
+    ],
+    "to": [
+      "by that",
+      "because of that"
+    ]
+  },
+  {
+    "from": [
+      "therein"
+    ],
+    "to": [
+      "in that",
+      "there"
+    ]
+  },
+  {
+    "from": [
+      "thereof"
+    ],
+    "to": [
+      "of that"
+    ]
+  },
+  {
+    "from": [
+      "thereto"
+    ],
+    "to": [
+      "to that"
+    ]
+  },
+  {
+    "from": [
+      "thus"
+    ],
+    "to": [
+      "so",
+      "therefore"
+    ]
+  },
+  {
+    "from": [
+      "to date"
+    ],
+    "to": [
+      "so far",
+      "up to now"
+    ]
+  },
+  {
+    "from": [
+      "to the extent that"
+    ],
+    "to": [
+      "if",
+      "when"
+    ]
+  },
+  {
+    "from": [
+      "transfer"
+    ],
+    "to": [
+      "change",
+      "move"
+    ]
+  },
+  {
+    "from": [
+      "transmit"
+    ],
+    "to": [
+      "send"
+    ]
+  },
+  {
+    "from": [
+      "ultimately"
+    ],
+    "to": [
+      "in the end",
+      "finally"
+    ]
+  },
+  {
+    "from": [
+      "unavailability"
+    ],
+    "to": [
+      "lack of"
+    ]
+  },
+  {
+    "from": [
+      "undernoted"
+    ],
+    "to": [
+      "the following"
+    ]
+  },
+  {
+    "from": [
+      "undersigned"
+    ],
+    "to": [
+      "I",
+      "we"
+    ]
+  },
+  {
+    "from": [
+      "undertake"
+    ],
+    "to": [
+      "agree",
+      "promise",
+      "do"
+    ]
+  },
+  {
+    "from": [
+      "uniform"
+    ],
+    "to": [
+      "same",
+      "similar"
+    ]
+  },
+  {
+    "from": [
+      "unilateral"
+    ],
+    "to": [
+      "one-sided",
+      "one-way"
+    ]
+  },
+  {
+    "from": [
+      "unoccupied"
+    ],
+    "to": [
+      "empty"
+    ]
+  },
+  {
+    "from": [
+      "until such time"
+    ],
+    "to": [
+      "until"
+    ]
+  },
+  {
+    "from": [
+      "utilisation"
+    ],
+    "to": [
+      "use"
+    ]
+  },
+  {
+    "from": [
+      "utilise"
+    ],
+    "to": [
+      "use"
+    ]
+  },
+  {
+    "from": [
+      "variation"
+    ],
+    "to": [
+      "change"
+    ]
+  },
+  {
+    "from": [
+      "virtually"
+    ],
+    "to": [
+      "almost",
+      {
+        "instruction": "or edit out"
+      }
+    ]
+  },
+  {
+    "from": [
+      "visualise"
+    ],
+    "to": [
+      "see",
+      "predict"
+    ]
+  },
+  {
+    "from": [
+      "ways and means"
+    ],
+    "to": [
+      "ways"
+    ]
+  },
+  {
+    "from": [
+      "we have pleasure in"
+    ],
+    "to": [
+      "we are glad to"
+    ]
+  },
+  {
+    "from": [
+      "whatsoever"
+    ],
+    "to": [
+      "whatever",
+      "what",
+      "any"
+    ]
+  },
+  {
+    "from": [
+      "whensoever"
+    ],
+    "to": [
+      "when"
+    ]
+  },
+  {
+    "from": [
+      "whereas"
+    ],
+    "to": [
+      "but"
+    ]
+  },
+  {
+    "from": [
+      "whether or not"
+    ],
+    "to": [
+      "whether"
+    ]
+  },
+  {
+    "from": [
+      "with a view to"
+    ],
+    "to": [
+      "to",
+      "so that"
+    ]
+  },
+  {
+    "from": [
+      "with effect from"
+    ],
+    "to": [
+      "from"
+    ]
+  },
+  {
+    "from": [
+      "with reference to"
+    ],
+    "to": [
+      "about"
+    ]
+  },
+  {
+    "from": [
+      "with regard to"
+    ],
+    "to": [
+      "about",
+      "for"
+    ]
+  },
+  {
+    "from": [
+      "with respect to"
+    ],
+    "to": [
+      "about",
+      "for"
+    ]
+  },
+  {
+    "from": [
+      "with the minimum of delay"
+    ],
+    "to": [
+      "quickly",
+      {
+        "instruction": "say when"
+      }
+    ]
+  },
+  {
+    "from": [
+      "you are requested"
+    ],
+    "to": [
+      "please"
+    ]
+  },
+  {
+    "from": [
+      "your attention is drawn to"
+    ],
+    "to": [
+      "please see",
+      "please note"
+    ]
+  },
+  {
+    "from": [
+      "zone"
+    ],
+    "to": [
+      "area",
+      "region"
+    ]
+  }
+]

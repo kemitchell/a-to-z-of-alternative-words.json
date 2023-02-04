@@ -1,0 +1,12 @@
+{
+  "name": "a-to-z-of-alternative-words",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "kemitchell/a-to-z-of-alternative-words.json",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.12.0"
+  }
+}
